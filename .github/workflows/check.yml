@@ -13,7 +13,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        include:
+        # include:
           # - model: "SM-A528B"
           #   region: "EUX"
           # - model: "SM-A528N"
